@@ -14,7 +14,7 @@ layout: list-sidebar # list, list-sidebar
 sidebar: 
   title: Talks
   description: |
-    I give talks about ... . I also lead workshops on ... Email me for .
+    Carly has given talks on... She also leads workshops on... Email her for...
   author: ""
   text_link_label: # Subscribe via RSS
   text_link_url: # /talk/index.xml
