@@ -1,10 +1,9 @@
 ---
-title: Talks and Workshops
-description: |
-  I give talks about ... . I lead workshops on ... Email me for .
+title: Talks
+description: My Talks
 author: "Carly Hilbert"
-show_post_thumbnail: true
-show_author_byline: false
+show_post_thumbnail: false
+show_author_byline: true
 show_post_date: true
 show_post_time: true
 show_button_links: true
@@ -13,9 +12,9 @@ layout: list-sidebar # list, list-sidebar
 
 # for list-sidebar layout
 sidebar: 
-  title: Talks and Workshops
+  title: Talks
   description: |
-    I give talks about ... . I lead workshops on ... Email me for .
+    I give talks about ... . I also lead workshops on ... Email me for .
   author: ""
   text_link_label: # Subscribe via RSS
   text_link_url: # /talk/index.xml
@@ -24,7 +23,7 @@ sidebar:
 # set up common front matter for all pages inside blog/
 cascade:
   author: "Carly Hilbert"
-  show_author_byline: false
+  show_author_byline: true
   show_post_date: true
   show_post_time: true
   show_comments: false # see site config to choose Disqus or Utterances

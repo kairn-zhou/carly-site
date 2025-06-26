@@ -34,7 +34,7 @@ enableEmoji = true
   description = "Carly Hilbert's Research Website"
   favicon = "/img/favicon.ico"
   logo = "/img/favicon.ico"
-  mainSections = ["blog", "project", "talk"]
+  mainSections = ["blog", "research", "talk"]
   navallcaps = false
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -139,7 +139,7 @@ enableEmoji = true
   [[menu.header]]
     name = "Research"
     title = "My Research"
-    url = "/project/"
+    url = "/research/"
     weight = 2
   [[menu.header]]
     name = "Talks"
