@@ -23,8 +23,6 @@ sidebar:
   categories_link: true
   series_link: false
   tags_link: false
-  series_link: false
-  tags_link: false
   show_sidebar_adunit: true # show ad container
 
 # set up common front matter for all pages inside blog/

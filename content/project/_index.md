@@ -1,21 +1,17 @@
 ---
-title: Projects
-description: ""
+title: Research
+description: "My Research"
 author: "Carly Hilbert"
-show_post_thumbnail: true
-show_author_byline: false
-show_post_date: true
-show_button_links: true
+show_post_thumbnail: false
 show_author_byline: false
 show_post_date: true
 show_button_links: true
 # for listing page layout
 layout: list-sidebar # list, list-sidebar, list-grid
-layout: list-sidebar # list, list-sidebar, list-grid
 
 # for list-sidebar layout
 sidebar: 
-  title: Projects
+  title: Research
   description: |
     Carly researches... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
   author: ""
@@ -30,10 +26,8 @@ cascade:
   show_comments: false # see site config to choose Disqus or Utterances
   # for single-sidebar layout only
   sidebar:
-    text_link_label: View all research
-    text_link_label: View all research
-    text_link_url: /project/
-    show_sidebar_adunit: false # show ad container
+    text_link_label: #View all projects
+    text_link_url: #/project/
     show_sidebar_adunit: false # show ad container
 ---
 

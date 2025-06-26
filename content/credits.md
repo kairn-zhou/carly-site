@@ -1,7 +1,7 @@
 ---
 description: "Thank you to all the contributors!"
 draft: false
-layout: standard
+layout: blank
 show_title_as_headline: true
 title: Credits
 ---
