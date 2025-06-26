@@ -2,77 +2,77 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:54354/collection/day02/01-netlify/</loc>
+    <loc>http://localhost:62022/collection/day02/01-netlify/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:54354/collection/day01/01-github/</loc>
+    <loc>http://localhost:62022/collection/day01/01-github/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:54354/collection/prework/</loc>
+    <loc>http://localhost:62022/collection/prework/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:54354/collection/day01/</loc>
+    <loc>http://localhost:62022/collection/day01/</loc>
     <lastmod>2021-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:54354/collection/day01/02-postcards/</loc>
+    <loc>http://localhost:62022/collection/day01/02-postcards/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:54354/collection/day02/02-blogdown/</loc>
+    <loc>http://localhost:62022/collection/day02/02-blogdown/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:54354/collection/day02/</loc>
+    <loc>http://localhost:62022/collection/day02/</loc>
     <lastmod>2021-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:54354/collection/day01/03-distill/</loc>
+    <loc>http://localhost:62022/collection/day01/03-distill/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:54354/collection/day02/03-blogdown/</loc>
+    <loc>http://localhost:62022/collection/day02/03-blogdown/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:54354/blog/</loc>
+    <loc>http://localhost:62022/blog/</loc>
     <lastmod>2021-01-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:54354/</loc>
+    <loc>http://localhost:62022/</loc>
     <lastmod>2021-01-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:54354/categories/</loc>
+    <loc>http://localhost:62022/categories/</loc>
     <lastmod>2021-01-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:54354/categories/testcat/</loc>
+    <loc>http://localhost:62022/categories/testcat/</loc>
     <lastmod>2021-01-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:54354/blog/social/</loc>
+    <loc>http://localhost:62022/blog/social/</loc>
     <lastmod>2021-01-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:54354/collection/</loc>
+    <loc>http://localhost:62022/collection/</loc>
     <lastmod>2021-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:54354/talk/campfire/</loc>
+    <loc>http://localhost:62022/talk/campfire/</loc>
     <lastmod>2021-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:54354/talk/</loc>
+    <loc>http://localhost:62022/talk/</loc>
     <lastmod>2021-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:54354/project/</loc>
+    <loc>http://localhost:62022/project/</loc>
     <lastmod>2019-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:54354/project/giraffes/</loc>
+    <loc>http://localhost:62022/project/giraffes/</loc>
     <lastmod>2019-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:54354/project/penguins/</loc>
+    <loc>http://localhost:62022/project/penguins/</loc>
     <lastmod>2019-07-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:54354/project/bakeoff/</loc>
+    <loc>http://localhost:62022/project/bakeoff/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:54354/about/</loc>
+    <loc>http://localhost:62022/about/</loc>
   </url><url>
-    <loc>http://localhost:54354/credits/</loc>
+    <loc>http://localhost:62022/credits/</loc>
   </url><url>
-    <loc>http://localhost:54354/cv/</loc>
+    <loc>http://localhost:62022/cv/</loc>
   </url><url>
-    <loc>http://localhost:54354/series/</loc>
+    <loc>http://localhost:62022/series/</loc>
   </url><url>
-    <loc>http://localhost:54354/tags/</loc>
+    <loc>http://localhost:62022/tags/</loc>
   </url>
 </urlset>

@@ -49,7 +49,7 @@ enableEmoji = true
   # use a built-in color theme
   # one of: earth / forest / grayscale / magma / paper / peach / plum /
   #         poppy / primer / sky / violet / water 
-  theme = "forest"
+  theme = "earth"
   
   # or, leave theme empty & make your own palette
   # see docs at https://hugo-apero.netlify.app/blog/color-themes/
@@ -155,7 +155,7 @@ enableEmoji = true
   [[menu.header]]
     name = "CV"
     title = "My CV"
-    url = "/CV_2025.pdf"
+    url = "/cv/"
     weight = 5
     
   # Configure footer  
