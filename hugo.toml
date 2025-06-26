@@ -1,5 +1,7 @@
 baseURL = "https://kairn-zhou.github.io"
-theme = "hugo-apero"
+theme = ["hugo-embed-pdf-shortcode", "hugo-apero"]
+enableInlineShortcodes = true
+
 languageCode = "en"
 title = "Hugo Apéro"
 author = "Carly Hilbert"
