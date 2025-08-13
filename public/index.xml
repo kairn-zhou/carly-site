@@ -10,38 +10,45 @@
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aggregate Cooperatives - A Solution for Food Sovereign Communities</title>
-      <link>http://localhost:1313/talk/2024-06-22/</link>
+      <link>http://localhost:1313/research/2024-06-22/</link>
       <pubDate>Sat, 22 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/2024-06-22/</guid>
+      <guid>http://localhost:1313/research/2024-06-22/</guid>
       <description></description>
     </item>
     <item>
       <title>Species-Specific Responses to Human Trampling Indicate Alpine Plant Size Is More Sensitive than Reproduction to Disturbance</title>
-      <link>http://localhost:1313/research/2022-08-24/</link>
+      <link>http://localhost:1313/research/2023-08-24/</link>
       <pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/2022-08-24/</guid>
+      <guid>http://localhost:1313/research/2023-08-24/</guid>
       <description></description>
     </item>
     <item>
       <title>Alpine Plant Responses to Increases in Human Trampling Disturbance in the Nch&#39;kay Region (Garibaldi Provincial Park).</title>
-      <link>http://localhost:1313/talk/2022-12-12/</link>
+      <link>http://localhost:1313/research/2022-12-12/</link>
       <pubDate>Sat, 18 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/2022-12-12/</guid>
+      <guid>http://localhost:1313/research/2022-12-12/</guid>
       <description></description>
     </item>
     <item>
       <title>Alpine Plant Responses to Increases in Human Trampling Disturbance in the Nch&#39;kay Region (Garibaldi Provincial Park).</title>
-      <link>http://localhost:1313/talk/2023-03-18/</link>
+      <link>http://localhost:1313/research/2023-03-18/</link>
       <pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/2023-03-18/</guid>
+      <guid>http://localhost:1313/research/2023-03-18/</guid>
       <description></description>
     </item>
     <item>
       <title>The Effect of Structural Enrichment in Male Mice: A Systematic Review.</title>
-      <link>http://localhost:1313/talk/2022-03-19/</link>
+      <link>http://localhost:1313/research/2022-03-19/</link>
       <pubDate>Sat, 19 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/2022-03-19/</guid>
+      <guid>http://localhost:1313/research/2022-03-19/</guid>
       <description></description>
+    </item>
+    <item>
+      <title>testlesson</title>
+      <link>http://localhost:1313/teaching/testlesson/</link>
+      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/testlesson/</guid>
+      <description>&lt;h1 id=&#34;lesson&#34;&gt;LESSON!!!&#xD;&#xA;  &lt;a href=&#34;#lesson&#34;&gt;&lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;This is a quote&lt;/strong&gt; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Donec ullamcorper nulla non metus auctor fringilla tortor mauris condimentum[^1] nibh.&lt;br&gt;&#xA;&lt;em&gt;&amp;ndash; someone wise&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;</description>
     </item>
     <item>
       <title>This is a Test Post</title>
@@ -49,13 +56,6 @@
       <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/testpost/</guid>
       <description>&lt;h1 id=&#34;heading&#34;&gt;Heading&#xD;&#xA;  &lt;a href=&#34;#heading&#34;&gt;&lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;h2 id=&#34;second-heading&#34;&gt;Second heading&#xD;&#xA;  &lt;a href=&#34;#second-heading&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xD;&#xA;      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;&#xD;&#xA;      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;&#xD;&#xA;    &lt;/svg&gt;&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;h3 id=&#34;third-heading&#34;&gt;Third heading&#xD;&#xA;  &lt;a href=&#34;#third-heading&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xD;&#xA;      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;&#xD;&#xA;      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;&#xD;&#xA;    &lt;/svg&gt;&lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;h4 id=&#34;fourth-heading&#34;&gt;Fourth heading&#xD;&#xA;  &lt;a href=&#34;#fourth-heading&#34;&gt;&lt;/a&gt;&#xD;&#xA;&lt;/h4&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;h5 id=&#34;fifth-heading&#34;&gt;Fifth heading&#xD;&#xA;  &lt;a href=&#34;#fifth-heading&#34;&gt;&lt;/a&gt;&#xD;&#xA;&lt;/h5&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;h6 id=&#34;sixth-heading&#34;&gt;Sixth heading&#xD;&#xA;  &lt;a href=&#34;#sixth-heading&#34;&gt;&lt;/a&gt;&#xD;&#xA;&lt;/h6&gt;&#xD;&#xA;&lt;p&gt;This is body text.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;this is a list&lt;/li&gt;&#xA;&lt;li&gt;of&lt;/li&gt;&#xA;&lt;li&gt;words&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;this is&lt;/li&gt;&#xA;&lt;li&gt;an ordered&lt;/li&gt;&#xA;&lt;li&gt;list&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-toml&#34; data-lang=&#34;toml&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#1f2328&#34;&gt;this&lt;/span&gt; &lt;span style=&#34;color:#1f2328&#34;&gt;is&lt;/span&gt; &lt;span style=&#34;color:#1f2328&#34;&gt;a&lt;/span&gt; &lt;span style=&#34;color:#1f2328&#34;&gt;block&lt;/span&gt; &lt;span style=&#34;color:#1f2328&#34;&gt;of&lt;/span&gt; &lt;span style=&#34;color:#1f2328&#34;&gt;code&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#1f2328&#34;&gt;you&lt;/span&gt; &lt;span style=&#34;color:#1f2328&#34;&gt;can&lt;/span&gt; &lt;span style=&#34;color:#1f2328&#34;&gt;put&lt;/span&gt; &lt;span style=&#34;color:#1f2328&#34;&gt;words&lt;/span&gt; &lt;span style=&#34;color:#1f2328&#34;&gt;in&lt;/span&gt; &lt;span style=&#34;color:#1f2328&#34;&gt;here&lt;/span&gt; &lt;span style=&#34;color:#1f2328&#34;&gt;you&lt;/span&gt; &lt;span style=&#34;color:#1f2328&#34;&gt;can&lt;/span&gt; &lt;span style=&#34;color:#1f2328&#34;&gt;put&lt;/span&gt; &lt;span style=&#34;color:#1f2328&#34;&gt;words&lt;/span&gt; &lt;span style=&#34;color:#1f2328&#34;&gt;in&lt;/span&gt; &lt;span style=&#34;color:#1f2328&#34;&gt;here&lt;/span&gt; &lt;span style=&#34;color:#1f2328&#34;&gt;you&lt;/span&gt; &lt;span style=&#34;color:#1f2328&#34;&gt;can&lt;/span&gt; &lt;span style=&#34;color:#1f2328&#34;&gt;put&lt;/span&gt; &lt;span style=&#34;color:#1f2328&#34;&gt;words&lt;/span&gt; &lt;span style=&#34;color:#1f2328&#34;&gt;in&lt;/span&gt; &lt;span style=&#34;color:#1f2328&#34;&gt;here&lt;/span&gt; &lt;span style=&#34;color:#1f2328&#34;&gt;you&lt;/span&gt; &lt;span style=&#34;color:#1f2328&#34;&gt;can&lt;/span&gt; &lt;span style=&#34;color:#1f2328&#34;&gt;put&lt;/span&gt; &lt;span style=&#34;color:#1f2328&#34;&gt;words&lt;/span&gt; &lt;span style=&#34;color:#1f2328&#34;&gt;in&lt;/span&gt; &lt;span style=&#34;color:#1f2328&#34;&gt;here&lt;/span&gt; &lt;span style=&#34;color:#1f2328&#34;&gt;you&lt;/span&gt; &lt;span style=&#34;color:#1f2328&#34;&gt;can&lt;/span&gt; &lt;span style=&#34;color:#1f2328&#34;&gt;put&lt;/span&gt; &lt;span style=&#34;color:#1f2328&#34;&gt;words&lt;/span&gt; &lt;span style=&#34;color:#1f2328&#34;&gt;in&lt;/span&gt; &lt;span style=&#34;color:#1f2328&#34;&gt;here&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;.&lt;br&gt;&#xA;.&lt;br&gt;&#xA;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Typography Styles &amp; Element Examples</title>
-      <link>http://localhost:1313/elements/</link>
-      <pubDate>Mon, 18 Feb 2019 12:27:33 -0600</pubDate>
-      <guid>http://localhost:1313/elements/</guid>
-      <description>&lt;div class=&#34;flex-l&#34;&gt;&#xD;&#xA;  &lt;div class=&#34;w-50-l pr4-l&#34;&gt;&#xD;&#xA;    &lt;h6 class=&#34;ttu tracked black-30 pv3 mt5 bt b--black-10&#34;&gt;Font Sizes&lt;/h6&gt;&#xD;&#xA;    &lt;div class=&#34;w-100 overflow-x-auto&#34;&gt;&#xD;&#xA;      &lt;table class=&#34;w-100 mb2&#34;&gt;&#xD;&#xA;        &lt;tbody&gt;&#xD;&#xA;          &lt;tr&gt;&#xD;&#xA;            &lt;td class=&#34;tc f-headline b b--black-10 bg-white-60 v-base&#34;&gt;A&lt;/td&gt;&#xD;&#xA;            &lt;td class=&#34;tc f-subheadline b b--black-10 bg-white-60 v-base&#34;&gt;A&lt;/td&gt;&#xD;&#xA;            &lt;td class=&#34;tc f1 b b--black-10 bg-white-60 v-base&#34;&gt;A&lt;/td&gt;&#xD;&#xA;            &lt;td class=&#34;tc f2 b b--black-10 bg-white-60 v-base&#34;&gt;A&lt;/td&gt;&#xD;&#xA;            &lt;td class=&#34;tc f3 b b--black-10 bg-white-60 v-base&#34;&gt;A&lt;/td&gt;&#xD;&#xA;            &lt;td class=&#34;tc f4 b b--black-10 bg-white-60 v-base&#34;&gt;A&lt;/td&gt;&#xD;&#xA;            &lt;td class=&#34;tc f5 b b--black-10 bg-white-60 v-base&#34;&gt;A&lt;/td&gt;&#xD;&#xA;            &lt;td class=&#34;tc f6 b b--black-10 bg-white-60 v-base&#34;&gt;A&lt;/td&gt;&#xD;&#xA;          &lt;/tr&gt;&#xD;&#xA;          &lt;tr&gt;&#xD;&#xA;            &lt;td class=&#34;tc black-50 f6 fw2 pa1&#34;&gt;6rem&lt;br&gt;(96px)&lt;/td&gt;&#xD;&#xA;            &lt;td class=&#34;tc black-50 f6 fw2 pa1&#34;&gt;5rem&lt;br&gt;(80px)&lt;/td&gt;&#xD;&#xA;            &lt;td class=&#34;tc black-50 f6 fw2 pa1&#34;&gt;3rem&lt;br&gt;(48px)&lt;/td&gt;&#xD;&#xA;            &lt;td class=&#34;tc black-50 f6 fw2 pa1&#34;&gt;2.25rem&lt;br&gt;(36px)&lt;/td&gt;&#xD;&#xA;            &lt;td class=&#34;tc black-50 f6 fw2 pa1&#34;&gt;1.5rem&lt;br&gt;(24px)&lt;/td&gt;&#xD;&#xA;            &lt;td class=&#34;tc black-50 f6 fw2 pa1&#34;&gt;1.25rem&lt;br&gt;(20px)&lt;/td&gt;&#xD;&#xA;            &lt;td class=&#34;tc black-50 f6 fw2 pa1&#34;&gt;1rem&lt;br&gt;(16px)&lt;/td&gt;&#xD;&#xA;            &lt;td class=&#34;tc black-50 f6 fw2 pa1&#34;&gt;.875rem&lt;br&gt;(14px)&lt;/td&gt;&#xD;&#xA;          &lt;/tr&gt;&#xD;&#xA;        &lt;/tbody&gt;&#xD;&#xA;      &lt;/table&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;    &lt;h6 class=&#34;ttu tracked black-30 pv3 mt5 bt b--black-10&#34;&gt;Type Samples&lt;/h6&gt;&#xD;&#xA;    &lt;h1 class=&#34;f-headline measure-narrow lh-solid&#34;&gt;Head&amp;shy;line&lt;/h1&gt;&#xD;&#xA;    &lt;h1 class=&#34;f-subheadline measure-narrow lh-solid&#34;&gt;Sub&amp;shy;head&amp;shy;line&lt;/h1&gt;&#xD;&#xA;    &lt;h1 class=&#34;f2 f1-ns measure-narrow lh-title&#34;&gt;Level 1 Heading&lt;/h1&gt;&#xD;&#xA;    &lt;p class=&#34;f4-ns measure lh-copy&#34;&gt;One page to rule them all...well, not really. This page displays sample typography and page elements to illustrate their style. Things like headings and paragraphs showing the beautiful type scale, form elements, tabular data, and image layouts just to name a few.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Credits</title>
@@ -69,7 +69,7 @@
       <link>http://localhost:1313/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cv/</guid>
-      <description>&lt;object data=&#34;/CV_2025.pdf&#34; type=&#34;application/pdf&#34; width = 100% height = 900&gt;&#xD;&#xA;    &lt;embed src=&#34;http://localhost:1313/CV_2025.pdf&#34; type=&#34;application/pdf&#34; width = 100% height = 900/&gt;&#xD;&#xA;&lt;/object&gt;</description>
+      <description>&lt;object data=&#34;/CV_Aug_2025.pdf&#34; type=&#34;application/pdf&#34; width = 100% height = 900&gt;&#xD;&#xA;    &lt;embed src=&#34;http://localhost:1313/CV_Aug_2025.pdf&#34; type=&#34;application/pdf&#34; width = 100% height = 900/&gt;&#xD;&#xA;&lt;/object&gt;&#xD;&#xA;&lt;p&gt;Click &#xD;&#xA;&lt;a href=&#34;https://docs.google.com/document/d/1YcZPplwdte1OuD5Oyb7K-anQiPwwljVB/edit?usp=sharing&amp;amp;ouid=115259097712508872057&amp;amp;rtpof=true&amp;amp;sd=true&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; if the PDF is not displaying.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

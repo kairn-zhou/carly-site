@@ -1,7 +1,7 @@
 ---
-title: Blog
+title: Teaching
 description: |
-  
+  Carly teaches lessons and hosts workshops on...
 author: ""
 show_post_thumbnail: true
 thumbnail_left: true # for list-sidebar only
@@ -13,16 +13,14 @@ layout: list-sidebar # list, list-sidebar, list-grid
 
 # for list-sidebar layout
 sidebar: 
-  title: Blog
+  title: Teaching
   description: |
-    Carly is... Read her thoughts on... 
+    Carly teaches lessons and hosts workshops on...
     ___
-    #### [All Tags](/tags/)
-    #### [RSS](/index.xml)
-
+    #### [RSS](/teaching/index.xml)
   author: ""
-  text_link_label: #RSS
-  text_link_url: #/index.xml
+  text_link_label: #Subscribe via RSS
+  text_link_url: #/teaching/index.xml
   categories_link: false
   series_link: false
   tags_link: false
@@ -30,14 +28,14 @@ sidebar:
 
 # set up common front matter for all pages inside blog/
 cascade:
-  author: "Carly Hilbert"
+  author: "The R Markdown Team @RStudio"
   show_author_byline: true
   show_post_date: true
   show_comments: true # see site config to choose Disqus or Utterances
   # for single-sidebar layout
   sidebar:
     text_link_label: View recent posts
-    text_link_url: /blog/
+    text_link_url: /teaching/
     show_sidebar_adunit: false # show ad container
 ---
 

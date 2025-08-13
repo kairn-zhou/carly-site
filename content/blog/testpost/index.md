@@ -4,13 +4,11 @@ subtitle: "This is a subtitle"
 excerpt: "This is an excerpt from the blog. Don't make it too long or it'll show up weird on the About page. Around this many words is good so that it shows up as three lines."
 date: 2020-12-30
 author: "Carly Hilbert"
-draft: false
-images:
-series:
-tags:
-categories:
-- TestCat
 layout: single # layout options: single, single-sidebar
+categories: # not using categories for blog posts, just using them in the "research" section to separate talks and publications
+tags:
+- testtag
+draft: false
 ---
 
 # Heading
@@ -56,21 +54,45 @@ ___
 {{< /panel >}}
 {{< /panelset >}}
 
-.grid-container {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  grid-template-rows: repeat(3, auto);
-  grid-auto-flow: dense;
-  grid-gap: 0px;
-  margin: 0px auto;
-  max-width: 1440px;
-}
-
-.\
-.\
-.
+<table class="collapse ba bw1 b--moon-gray mv4 w-100">
+  <thead>
+    <tr>
+      <th class="f6 fw6 tl ttu pa3">This is a table example</th>
+      <th class="f6 fw6 tl ttu pa3">Rating</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr class="stripe-dark">
+      <td class="pa3">The Big Lebowski</td>
+      <td class="pa3">&starf;&starf;&starf;&starf;&starf;</td>
+    </tr>
+    <tr class="stripe-dark">
+      <td class="pa3">Pulp Fiction</td>
+      <td class="pa3">&starf;&starf;&starf;&starf;&starf;</td>
+    </tr>
+    <tr class="stripe-dark">
+      <td class="pa3">Fargo</td>
+      <td class="pa3">&starf;&starf;&starf;&starf;&starf;</td>
+    </tr>
+    <tr class="stripe-dark">
+      <td class="pa3">Intersellar</td>
+      <td class="pa3">&starf;&starf;&starf;&starf;&star;</td>
+    </tr>
+    <tr class="stripe-dark">
+      <td class="pa3">Dumb &amp; Dumber</td>
+      <td class="pa3">&starf;&starf;&starf;&starf;&star;</td>
+    </tr>
+    <tr class="stripe-dark">
+      <td class="pa3">The Big White</td>
+      <td class="pa3">&starf;&starf;&starf;&starf;&star;</td>
+    </tr>
+  </tbody>
+</table>
 
 > **This is a quote** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Donec ullamcorper nulla non metus auctor fringilla tortor mauris condimentum[^1] nibh.\
 > *-- someone wise*
+
+
+![this is an image](testimage.jpg)
 
 [^1]: This is a footnote at the bottom of the page.

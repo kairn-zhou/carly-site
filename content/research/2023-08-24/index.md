@@ -3,13 +3,18 @@ title: "Species-Specific Responses to Human Trampling Indicate Alpine Plant Size
 subtitle: ""
 excerpt: ""
 date: 2023-08-24
-author: "Chardon, N. I., Stone, P., Hilbert, C., Maclachlan, T., Ragsdale, B., Zhao, A., Goodwin, K., Collins, C. G., Hewitt, N., & Elphinstone, C."
+date_end: ""
 featured: false
+show_post_time: false
+event: "Plants"
+event_url: 
+author: "Chardon, N. I., Stone, P., Hilbert, C., Maclachlan, T., Ragsdale, B., Zhao, A., Goodwin, K., Collins, C. G., Hewitt, N., & Elphinstone, C."
+location: ""
 draft: false
-tags:
-categories:
-# layout options: single or single-sidebar
+# layout options: single, single-sidebar
 layout: single
+categories:
+- Publications
 links:
 - icon: book
   icon_pack: fas
